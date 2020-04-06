@@ -35,3 +35,5 @@ class ventilator():
         pass
     def testOutput(self):
         return "Hello I am Alive"
+
+print("Hello World!!")
