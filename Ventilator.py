@@ -36,4 +36,4 @@ class ventilator():
     def testOutput(self):
         return "Hello I am Alive"
 
-print("Hello World!!")
+print("Hello World!")
